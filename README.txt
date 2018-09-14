@@ -1,1 +1,3 @@
-Voici un repository conÁu spÈcialement pour l'exercice d'OC.
+Voici un repository con√ßu sp√©cialement pour l'exercice d'OC.
+
+Je pense que cela n'int√©resse que moi :)
